@@ -114,158 +114,259 @@ The purpose of this article is to preserve video games as works of art, cultural
 
 ### Article VI – Transparency of Digital Purchases
 Consumers shall be provided with clear, accurate, and easily understandable information regarding the nature of every digital game purchase before completing a transaction.
+
 Digital storefronts and publishers shall clearly disclose any significant limitations affecting ownership, access, functionality, or future availability, including but not limited to online service dependencies, mandatory account requirements, digital rights management (DRM), subscription conditions, and circumstances under which access to the game may be limited or discontinued.
+
 Such information shall be presented in a prominent and accessible manner and shall not be concealed within lengthy license agreements or other legal documentation that consumers cannot reasonably be expected to read in full before making a purchase.
+
 The purpose of this article is to ensure that consumers can make informed purchasing decisions based on a clear understanding of the rights, limitations, and conditions associated with digital game purchases.
-Article VII – Fair Long-Term Accessibility
+
+### Article VII – Fair Long-Term Accessibility
 Digital video game publishers are entitled to recover their development, marketing, and operational costs, while earning fair and substantial profits from their creative work.
+
 However, where a game has achieved exceptional long-term commercial success, consumers should also benefit through progressively improved affordability.
+
 Legislation should establish transparent and objective criteria, in accordance with the Fair Long-Term Accessibility Framework set out in Appendix D, under which exceptionally profitable games become subject to gradual price reductions over time, balancing continued commercial incentives with broader public access. 
+
 The purpose of this article is to encourage a fair balance between rewarding innovation and creativity while ensuring that games of exceptional commercial success become increasingly accessible to future generations of players.
-Article VIII – Digital Inheritance
+
+### Article VIII – Digital Inheritance
 Digital game libraries acquired through lawful purchases shall form part of a consumer's digital estate and shall be transferable upon the consumer's death in accordance with the principles set out in Appendix E – Digital Inheritance Framework.
+
 Consumers shall have the right to designate one or more beneficiaries to inherit their digital game libraries. Where no beneficiary has been designated, the transfer shall be carried out in accordance with the applicable laws of succession.
+
 Publishers and digital platform holders shall provide a secure, transparent, and reasonably accessible process through which beneficiaries or lawful heirs may request the transfer of legally acquired digital game libraries upon providing appropriate legal documentation.
+
 The transfer of a digital game library under this article shall relate solely to the consumer's lawful game entitlements. Personal information, communications, payment methods, and other private account data shall remain protected in accordance with applicable privacy and data protection laws.
+
 The purpose of this article is to recognize digital game libraries as valuable consumer assets, ensuring that legally acquired collections may be preserved and passed on to future generations in a manner that respects both consumer rights and personal privacy.
 
-Appendix A – Fair Anti-Piracy Measures
+---
+
+## Appendices
+
+### Appendix A – Fair Anti-Piracy Measures
 This Appendix provides technical and implementation guidance supporting the principles established under Article II – Right to Personal Preservation.
+
 Its purpose is to demonstrate that effective protection against unauthorized distribution can coexist with strong consumer rights. Anti-piracy measures should protect intellectual property while respecting the legitimate rights of consumers who have lawfully purchased digital games.
 
-Principle 1 – Consumer Rights First
+**Principle 1 – Consumer Rights First**
+
 Anti-piracy measures shall not restrict the legitimate use of officially created preservation copies.
+
 Consumers who have legally purchased a digital game shall retain the right to preserve, restore, and play that game without unnecessary technical restrictions.
+
 The purpose of anti-piracy measures shall be to prevent unauthorized distribution, not to limit legitimate ownership rights.
 
-Principle 2 – Official Preservation Copies
+**Principle 2 – Official Preservation Copies**
+
 Preservation copies created through official tools provided by publishers or platform holders shall be considered legitimate consumer copies.
+
 Such copies shall include the complete version of the game legally owned by the consumer at the time of creation, including applicable updates, patches, and downloadable content.
+
 These preservation copies shall be playable offline without requiring recurring authentication, continuous Internet connectivity, or additional approval from the platform holder.
 
-Principle 3 – Separation Between Offline Ownership and Online Services
+**Principle 3 – Separation Between Offline Ownership and Online Services**
+
 Online features that depend on platform infrastructure, including multiplayer services, cloud saves, online matchmaking, digital storefront access, and other connected features, may require authentication through the account that legally acquired the game.
+
 Such requirements shall apply only to online services and shall not restrict offline access to officially created preservation copies.
 
+**Principle 4 – User-Friendly Preservation Tools**
 
-Principle 4 – User-Friendly Preservation Tools
 Digital storefronts and platform holders shall provide official, reliable, and accessible tools that allow consumers to create, manage, restore, and transfer preservation copies without requiring specialist technical knowledge or third-party software.
+
 The preservation process should be simple enough to be used by ordinary consumers.
 
-Illustrative Implementation Example (Non-Binding)
+**Illustrative Implementation Example (Non-Binding)**
+
 One possible implementation consistent with this Appendix would allow consumers to create preservation copies on external storage devices through official platform tools.
+
 These copies would function as personal digital equivalents of physical media, allowing offline gameplay without recurring authorization checks.
+
 Authentication would only be required when accessing online services linked to the purchasing account. The existence of online protections shall not prevent legitimate consumers from using their preserved games offline.
 
-Appendix B – Online Functionality and MMO Preservation
+### Appendix B – Online Functionality and MMO Preservation
 This Appendix provides technical and implementation guidance supporting the principles established under Article IV – Online Functionality Preservation.
+
 Its purpose is to establish principles for preserving online gaming experiences after official services are discontinued, recognizing that different genres and game architectures require different preservation approaches.
+
 The objective is not to require a single technical solution, but to ensure that the discontinuation of official online services does not unnecessarily result in the permanent loss of gameplay experiences that consumers have legally purchased.
 
-Principle 1 – Preservation of Online Functionality
+**Principle 1 – Preservation of Online Functionality**
+
 When online services are permanently discontinued, publishers and platform holders should take reasonable measures to preserve essential online functionality where technically and legally feasible.
+
 The preferred outcome shall be the continuation of the original online experience. Where this is not possible, reasonable alternatives shall be provided to preserve the core gameplay experience.
 
-Principle 2 – Multiplayer Game Preservation
+**Principle 2 – Multiplayer Game Preservation**
+
 For games whose primary online functionality consists of competitive or cooperative multiplayer, preservation solutions may include:
+
 community-hosted servers;
+
 dedicated server support;
+
 peer-to-peer networking;
+
 local area network (LAN) functionality;
+
 other suitable methods that allow players to continue accessing multiplayer features.
+
 Publishers should not unnecessarily prevent communities from maintaining multiplayer experiences after official services have ended.
 
-Principle 3 – Server Software and Community Support
+**Principle 3 – Server Software and Community Support**
+
 Where online functionality depends on dedicated servers operated by the publisher, reasonable efforts should be made to provide the necessary tools, documentation, or alternatives required for community preservation.
+
 Security-related restrictions may be considered where necessary, but should not be used solely to prevent legitimate preservation efforts.
 
-Principle 4 – MMO Preservation
+**Principle 4 – MMO Preservation**
+
 Massively multiplayer online games present unique preservation challenges due to their persistent worlds, economies, progression systems, and social structures.
+
 When official MMO services are discontinued, publishers should provide one or more preservation alternatives where technically and legally feasible, including:
+
 official legacy servers;
+
 community server support;
+
 offline preservation editions;
+
 adapted single-player or cooperative experiences;
+
 other solutions capable of preserving significant aspects of the original game.
 
-Principle 5 – Preservation of Purchased Content
+**Principle 5 – Preservation of Purchased Content**
+
 Online-dependent content legally acquired by consumers, including expansions, downloadable content, cosmetic items, and other purchased digital assets, should not become permanently inaccessible solely due to the discontinuation of online services.
+
 Where the original online functionality cannot be maintained, publishers should provide reasonable alternatives that preserve as much purchased content and gameplay value as possible.
 
-Principle 6 – Advance Notice and Transition Period
+**Principle 6 – Advance Notice and Transition Period**
+
 Before permanently discontinuing online services, publishers shall provide consumers with a minimum of twelve months' advance notice.
+
 This notice period shall allow consumers sufficient time to complete ongoing activities, organize communities, and prepare for the transition away from official services.
+
 Publishers shall clearly communicate:
+
 the date of service termination;
+
 affected features;
+
 available preservation options;
+
 any limitations affecting purchased content.
+
 Upon the termination of official online services, any required offline mode, preservation version, community server support, or other approved alternative solution established under this Appendix shall be made available immediately, ensuring that legally purchased games do not become inaccessible solely due to the closure of online infrastructure.
 
-Illustrative Implementation Examples (Non-Binding)
+**Illustrative Implementation Examples (Non-Binding)**
+
 Examples of possible preservation approaches include:
+
 A fighting game transitioning from official servers to peer-to-peer matchmaking.
+
 A cooperative game receiving LAN support or community server tools.
+
 A shooter receiving dedicated server files for community hosting.
+
 An MMO receiving a legacy server, community server support, or an adapted offline experience.
+
 These examples are intended to demonstrate possible approaches and do not represent mandatory technical requirements. Any solution that preserves the intended gameplay experience while respecting consumer rights may be considered appropriate.
 
- Appendix C – Public Game Preservation Framework
+### Appendix C – Public Game Preservation Framework
 This Appendix provides technical and implementation guidance supporting the principles established under Article V – Public Preservation of Abandoned Games.
+
 Its purpose is to establish a framework for the long-term preservation and accessibility of digital video games that have reached the end of their commercial life.
+
 Video games represent an important form of cultural expression, artistic creation, and technological history. Their preservation should not depend solely on continued commercial profitability or the continued availability of obsolete hardware and services.
 
-Principle 1 – Criteria for Abandoned Games
+**Principle 1 – Criteria for Abandoned Games**
+
 For the purposes of public preservation, a digital game may be considered abandoned when:
+
 it is no longer commercially available through official distribution channels;
+
 the publisher or platform holder no longer provides reasonable support for continued access;
+
 no reasonable legal method exists for consumers to acquire or experience the game.
+
 The determination of abandonment should be based on transparent criteria and should not depend solely on the publisher's internal decisions.
 
-Principle 2 – Preservation Responsibility
+**Principle 2 – Preservation Responsibility**
+
 When a game meets the criteria for abandonment, publishers and platform holders should provide the necessary materials required for long-term preservation, including where technically feasible:
+
 the final supported version of the game;
+
 required updates and patches;
+
 necessary documentation;
+
 required software components or technical information needed for preservation.
+
 The purpose of this requirement is preservation and historical access, not commercial exploitation.
 
-Principle 3 – Authorized Preservation Institutions
+**Principle 3 – Authorized Preservation Institutions**
+
 Abandoned games should be preserved through recognized digital preservation institutions, which may include:
+
 public archives;
+
 cultural institutions;
+
 dedicated digital preservation organizations;
+
 authorized preservation platforms.
+
 These institutions should maintain preserved versions of games in a manner that protects historical integrity and ensures long-term accessibility.
 
-Principle 4 – Public Accessibility
+**Principle 4 – Public Accessibility**
+
 Preserved abandoned games should be made legally accessible to the public when they are no longer commercially exploited by their rights holders.
+
 Access methods may include:
+
 original hardware;
+
 official compatibility solutions;
+
 approved emulation;
+
 virtualization;
+
 future preservation technologies.
+
 The chosen method should prioritize accessibility, authenticity, and long-term preservation.
 
-Principle 5 – Platform Responsibility
+**Principle 5 – Platform Responsibility**
+
 Digital platforms that distribute games shall maintain appropriate preservation mechanisms to prevent the permanent disappearance of commercially released digital titles.
+
 The closure of a digital storefront or service should not result in the irreversible loss of access to historically significant games.
 
-Principle 6 – Respect for Intellectual Property
+**Principle 6 – Respect for Intellectual Property**
+
 Public preservation shall respect legitimate intellectual property rights while recognizing that abandoned works have cultural value beyond their commercial lifespan.
+
 Preservation measures should not interfere with active commercial exploitation, ongoing sales, or legitimate future re-releases.
 
-Principle 7 – Future-Proof Preservation
+**Principle 7 – Future-Proof Preservation**
+
 Preservation systems should be designed to adapt to future technological changes.
+
 The objective of this framework is not to preserve a specific format or platform, but to ensure that future generations retain the ability to experience, study, and appreciate video games as part of humanity's cultural heritage.
 
-Illustrative Implementation Example (Non-Binding)
+**Illustrative Implementation Example (Non-Binding)**
+
 A possible implementation could include a public digital preservation library operated by a recognized cultural institution.
+
 When a game has been discontinued commercially and meets the criteria established under this framework, the preserved version could become available through this library using appropriate preservation technologies.
+
 Such a system would operate similarly to existing cultural preservation initiatives for books, films, and historical media, ensuring that video games remain accessible after their commercial lifecycle has ended.
 
-Appendix D – Fair Long-Term Accessibility Framework
+### Appendix D – Fair Long-Term Accessibility Framework
 This Appendix provides technical and implementation guidance supporting the principles established under Article VII – Fair Long-Term Accessibility.
 Its purpose is to establish a fair balance between rewarding innovation and creativity while ensuring that consumers benefit from the long-term commercial success of digital video games.
 The objective of this framework is not to limit reasonable profits or discourage investment in game development. Successful games should continue generating revenue for their creators and publishers. However, when a game has achieved exceptional financial success beyond the recovery of its development and operational costs, increased accessibility should become part of its long-term commercial lifecycle.
