@@ -16,7 +16,7 @@ If you believe these proposals deserve to become reality, you are encouraged to 
 
 If you have constructive feedback, suggestions, or wish to contribute to the development of this Charter, you are welcome to contact me at:
 
-**digitalgamersbill@...**
+**billdigital@proton.me**
 
 While I may not always be able to respond immediately, I will carefully read all genuine feedback and consider future revisions where appropriate.
 
