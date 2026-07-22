@@ -1,6 +1,6 @@
 # Digital Gamers' Bill of Rights
 
-## If you're short on time, please start with the **Introduction** and the **Contents** - they provide a concise overview of this proposal. If you believe these ideas are worth pursuing, I encourage you to read the full Charter and consider sharing it with others.
+## If you're short on time, please start with the [**Introduction**](#introduction) and the **Contents** - they provide a concise overview of this proposal. If you believe these ideas are worth pursuing, I encourage you to read the full Charter and consider sharing it with others.
 
 ## A message from the author
 
