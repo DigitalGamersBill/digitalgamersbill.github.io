@@ -1,5 +1,30 @@
 # Digital Gamers' Bill of Rights
 
+## If you're short on time, please start with the [**Introduction**](#introduction) and the [**Contents**](#contents) - they provide a concise overview of this proposal. If you believe these ideas are worth pursuing, I encourage you to read the full Charter and consider sharing it with others.
+
+## A message from the author
+
+The **Digital Gamers' Bill of Rights** was written by an independent gamer who believes that consumer rights should evolve alongside the digital transformation of the video game industry.
+
+This Charter is intended as a foundation for discussion rather than a finished legislative proposal. Its purpose is to provide a structured framework that consumers, content creators, journalists, preservation organizations, legislators, and the wider gaming community are free to discuss, improve, translate, and build upon.
+
+Due to personal circumstances, I am unable to dedicate the time and resources required to organize petitions, coordinate an international campaign, or promote this initiative on a large scale.
+
+For the time being, I have also chosen to remain anonymous. This is not because I seek recognition or wish to build a public profile around this project. On the contrary, I believe this initiative has a far greater chance of succeeding if it is championed by people and organizations who already have the visibility, experience, and audience necessary to bring these ideas to the attention of the public and policymakers.
+
+Rather than allowing these ideas to remain unpublished, I have chosen to make them freely available in the hope that others will continue the work.
+
+If you believe these proposals deserve to become reality, you are encouraged to share them, discuss them, improve them, and help carry them forward.
+
+If you have constructive feedback, suggestions, or wish to contribute to the development of this Charter, you are welcome to contact me at:
+
+**billdigital@proton.me**
+
+While I may not always be able to respond immediately, I will carefully read all genuine feedback and consider future revisions where appropriate.
+
+Thank you for taking the time to read this proposal.
+
+
 ## Introduction
 
 The goal of this Charter is to establish a set of essential consumer rights that protect players in the digital era.
@@ -17,47 +42,41 @@ The following rights represent the fundamental principles that we believe every 
 
 ## Contents
 
-### **Article 1. Permanent Access**
+## Table of Contents
 
+### [Article I. Permanent Access](#article-i--permanent-access-to-purchased-games)
 Players should never lose access to games they legally purchased.
 
-### **Article 2. Personal Preservation**
-
+### [Article II. Personal Preservation](#article-ii--right-to-personal-preservation)
 Players should have the right and tools to preserve their digital libraries.
 
-### **Article 3. End-of-Life Preservation**
-
+### [Article III. End-of-Life Preservation](#article-iii--end-of-life-software-preservation)
 Games should remain functional after official support ends.
 
-### **Article 4. Online Continuity**
-
+### [Article IV. Online Continuity](#article-iv--community-server-continuity)
 The shutdown of servers should not mean the permanent loss of online experiences.
 
-### **Article 5. Public Preservation**
-
+### [Article V. Public Preservation](#article-v--public-preservation-of-abandoned-games)
 Games abandoned by the market should not disappear from history.
 
-### **Article 6. Transparency**
-
+### [Article VI. Transparency](#article-vi--transparency-of-digital-purchases)
 Consumers deserve to know exactly what they are buying.
 
-### **Article 7. Fair Long-Term Accessibility**
-
+### [Article VII. Fair Long-Term Accessibility](#article-vii--fair-long-term-accessibility)
 Games that achieve extraordinary success should become increasingly accessible over time.
 
-### **Article 8. Digital Inheritance**
-
+### [Article VIII. Digital Inheritance](#article-viii--digital-inheritance)
 Digital game collections should not disappear when their owners pass away.
 
-### **Appendix A –** Fair Anti-Piracy Measures
+### [Appendix A – Fair Anti-Piracy Measures](#appendix-a--fair-anti-piracy-measures-1)
 
-### **Appendix B –** Online Functionality and MMO Preservation
+### [Appendix B – Online Functionality and MMO Preservation](#appendix-b--online-functionality-and-mmo-preservation-1)
 
-### **Appendix C –** Public Game Preservation Framework
+### [Appendix C – Public Game Preservation Framework](#appendix-c--public-game-preservation-framework-1)
 
-### **Appendix D –** Fair Long-Term Accessibility Framework
+### [Appendix D – Fair Long-Term Accessibility Framework](#appendix-d--fair-long-term-accessibility-framework-1)
 
-### **Appendix E –** Digital Inheritance Framework
+### [Appendix E – Digital Inheritance Framework](#appendix-e--digital-inheritance-framework-1)
 
 ---
 
@@ -73,6 +92,8 @@ The right of permanent access applies only to legally purchased products and sha
 
 The purpose of this article is to ensure that purchasing a digital game provides consumers with lasting and meaningful access comparable to the expectations traditionally associated with physical media.
 
+[↑ Back to Contents](#contents)
+
 ### Article II – Right to Personal Preservation
 Every consumer who legally purchases a digital video game shall have the right to create and maintain one or more personal preservation copies for private use.
 
@@ -84,6 +105,8 @@ Anti-piracy measures may be implemented only where necessary to prevent unauthor
 
 The purpose of this article is to ensure that consumers have practical and effective means to preserve their digital game libraries, reducing dependence on continuous online availability while safeguarding their legitimate purchases for future use.
 
+[↑ Back to Contents](#contents)
+
 ### Article III – End-of-Life Software Preservation
 Before permanently ending support for a digital video game, publishers shall take reasonable measures to ensure that the game remains functional and accessible to its legitimate owners.
 
@@ -92,6 +115,8 @@ Where technically feasible, publishers shall release a final preservation update
 Where certain features cannot reasonably be preserved, publishers shall clearly inform consumers of the affected functionality before support is discontinued.
 
 The purpose of this article is to ensure that the end of official support does not unnecessarily render legally purchased games unplayable or substantially diminish their intended gameplay experience.
+
+[↑ Back to Contents](#contents)
 
 ### Article IV – Community Server Continuity
 
@@ -103,6 +128,8 @@ Where full preservation of online functionality is not possible, publishers shal
 
 The purpose of this article is to ensure that the discontinuation of official online services does not unnecessarily result in the permanent loss of multiplayer or other essential online features for legitimate owners.
 
+[↑ Back to Contents](#contents)
+
 ### Article V – Public Preservation of Abandoned Games
 When a publisher permanently discontinues the commercial distribution of a digital video game and no longer provides a reasonable means for consumers to lawfully acquire it, the game shall enter the public preservation framework established under Appendix C – Public Game Preservation Framework.
 
@@ -111,6 +138,8 @@ Publishers shall cooperate with designated preservation institutions by providin
 The method of preservation shall not require publishers to develop new versions, ports, or adaptations of the game for platforms on which it was never originally released.
 
 The purpose of this article is to preserve video games as works of art, cultural heritage, and technological history, ensuring that games of historical or cultural significance remain legally accessible after their commercial life has ended.
+
+[↑ Back to Contents](#contents)
 
 ### Article VI – Transparency of Digital Purchases
 Consumers shall be provided with clear, accurate, and easily understandable information regarding the nature of every digital game purchase before completing a transaction.
@@ -121,6 +150,8 @@ Such information shall be presented in a prominent and accessible manner and sha
 
 The purpose of this article is to ensure that consumers can make informed purchasing decisions based on a clear understanding of the rights, limitations, and conditions associated with digital game purchases.
 
+[↑ Back to Contents](#contents)
+
 ### Article VII – Fair Long-Term Accessibility
 Digital video game publishers are entitled to recover their development, marketing, and operational costs, while earning fair and substantial profits from their creative work.
 
@@ -129,6 +160,8 @@ However, where a game has achieved exceptional long-term commercial success, con
 Legislation should establish transparent and objective criteria, in accordance with the Fair Long-Term Accessibility Framework set out in Appendix D, under which exceptionally profitable games become subject to gradual price reductions over time, balancing continued commercial incentives with broader public access. 
 
 The purpose of this article is to encourage a fair balance between rewarding innovation and creativity while ensuring that games of exceptional commercial success become increasingly accessible to future generations of players.
+
+[↑ Back to Contents](#contents)
 
 ### Article VIII – Digital Inheritance
 Digital game libraries acquired through lawful purchases shall form part of a consumer's digital estate and shall be transferable upon the consumer's death in accordance with the principles set out in Appendix E – Digital Inheritance Framework.
@@ -140,6 +173,8 @@ Publishers and digital platform holders shall provide a secure, transparent, and
 The transfer of a digital game library under this article shall relate solely to the consumer's lawful game entitlements. Personal information, communications, payment methods, and other private account data shall remain protected in accordance with applicable privacy and data protection laws.
 
 The purpose of this article is to recognize digital game libraries as valuable consumer assets, ensuring that legally acquired collections may be preserved and passed on to future generations in a manner that respects both consumer rights and personal privacy.
+
+[↑ Back to Contents](#contents)
 
 ---
 
@@ -185,6 +220,8 @@ One possible implementation consistent with this Appendix would allow consumers 
 These copies would function as personal digital equivalents of physical media, allowing offline gameplay without recurring authorization checks.
 
 Authentication would only be required when accessing online services linked to the purchasing account. The existence of online protections shall not prevent legitimate consumers from using their preserved games offline.
+
+[↑ Back to Contents](#contents)
 
 ### Appendix B – Online Functionality and MMO Preservation
 This Appendix provides technical and implementation guidance supporting the principles established under Article IV – Online Functionality Preservation.
@@ -274,6 +311,8 @@ A shooter receiving dedicated server files for community hosting.
 An MMO receiving a legacy server, community server support, or an adapted offline experience.
 
 These examples are intended to demonstrate possible approaches and do not represent mandatory technical requirements. Any solution that preserves the intended gameplay experience while respecting consumer rights may be considered appropriate.
+
+[↑ Back to Contents](#contents)
 
 ### Appendix C – Public Game Preservation Framework
 This Appendix provides technical and implementation guidance supporting the principles established under Article V – Public Preservation of Abandoned Games.
@@ -365,6 +404,8 @@ A possible implementation could include a public digital preservation library op
 When a game has been discontinued commercially and meets the criteria established under this framework, the preserved version could become available through this library using appropriate preservation technologies.
 
 Such a system would operate similarly to existing cultural preservation initiatives for books, films, and historical media, ensuring that video games remain accessible after their commercial lifecycle has ended.
+
+[↑ Back to Contents](#contents)
 
 ### Appendix D – Fair Long-Term Accessibility Framework
 This Appendix provides technical and implementation guidance supporting the principles established under Article VII – Fair Long-Term Accessibility.
@@ -530,5 +571,5 @@ After the consumer's death, the beneficiary could submit the required legal docu
 
 This approach would preserve the value of digital collections while respecting privacy, security, and intellectual property rights.
 
-
+[↑ Back to Contents](#contents)
 
