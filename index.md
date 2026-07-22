@@ -68,16 +68,15 @@ Games that achieve extraordinary success should become increasingly accessible o
 ### [Article VIII. Digital Inheritance](#article-viii--digital-inheritance)
 Digital game collections should not disappear when their owners pass away.
 
+### [Appendix A – Fair Anti-Piracy Measures](#appendix-a--fair-anti-piracy-measures)
 
-### **Appendix A –** Fair Anti-Piracy Measures
+### [Appendix B – Online Functionality and MMO Preservation](#appendix-b--online-functionality-and-mmo-preservation)
 
-### **Appendix B –** Online Functionality and MMO Preservation
+### [Appendix C – Public Game Preservation Framework](#appendix-c--public-game-preservation-framework)
 
-### **Appendix C –** Public Game Preservation Framework
+### [Appendix D – Fair Long-Term Accessibility Framework](#appendix-d--fair-long-term-accessibility-framework)
 
-### **Appendix D –** Fair Long-Term Accessibility Framework
-
-### **Appendix E –** Digital Inheritance Framework
+### [Appendix E – Digital Inheritance Framework](#appendix-e--digital-inheritance-framework)
 
 ---
 
@@ -103,6 +102,8 @@ These preservation copies shall include the complete installed version of the ga
 Anti-piracy measures may be implemented only where necessary to prevent unauthorized distribution, provided they comply with the Fair Anti-Piracy Measures principles set out in Appendix A. Such measures shall not unreasonably interfere with the rights established under this Charter.
 
 The purpose of this article is to ensure that consumers have practical and effective means to preserve their digital game libraries, reducing dependence on continuous online availability while safeguarding their legitimate purchases for future use.
+
+[↑ Back to Contents](#contents)
 
 ### Article III – End-of-Life Software Preservation
 Before permanently ending support for a digital video game, publishers shall take reasonable measures to ensure that the game remains functional and accessible to its legitimate owners.
