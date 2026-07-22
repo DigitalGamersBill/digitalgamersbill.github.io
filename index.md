@@ -1,5 +1,7 @@
 # Digital Gamers' Bill of Rights
 
+## If you're short on time, please start with the **Introduction** and the **Contents** - they provide a concise overview of this proposal. If you believe these ideas are worth pursuing, I encourage you to read the full Charter and consider sharing it with others.
+
 ## A message from the author
 
 The **Digital Gamers' Bill of Rights** was written by an independent gamer who believes that consumer rights should evolve alongside the digital transformation of the video game industry.
