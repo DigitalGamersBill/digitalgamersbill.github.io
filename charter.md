@@ -368,104 +368,167 @@ Such a system would operate similarly to existing cultural preservation initiati
 
 ### Appendix D – Fair Long-Term Accessibility Framework
 This Appendix provides technical and implementation guidance supporting the principles established under Article VII – Fair Long-Term Accessibility.
+
 Its purpose is to establish a fair balance between rewarding innovation and creativity while ensuring that consumers benefit from the long-term commercial success of digital video games.
+
 The objective of this framework is not to limit reasonable profits or discourage investment in game development. Successful games should continue generating revenue for their creators and publishers. However, when a game has achieved exceptional financial success beyond the recovery of its development and operational costs, increased accessibility should become part of its long-term commercial lifecycle.
 
-Principle 1 – Recognition of Commercial Success
+**Principle 1 – Recognition of Commercial Success**
+
 Publishers and developers shall retain the right to determine the initial pricing of their games and recover development, marketing, operational, and distribution costs.
+
 Commercial success should be recognized as a reward for innovation, creativity, and investment.
+
 However, exceptional long-term profitability should also create benefits for consumers through improved affordability.
 
-Principle 2 – Progressive Price Accessibility
+**Principle 2 – Progressive Price Accessibility**
+
 Digital games that achieve predefined commercial success milestones shall become subject to progressive price accessibility measures.
+
 These measures should encourage gradual reductions in consumer pricing as a game moves through different stages of commercial success.
+
 Possible stages may include:
+
 Stage 1 – Initial Release:
+
 Full launch pricing while recovering development and marketing investment.
+
 Stage 2 – Successful Recovery:
+
 Price reduction after the game has recovered its initial investment and achieved significant profitability.
+
 Stage 3 – Exceptional Success:
+
 Further price reduction after generating revenue substantially exceeding development and operational costs.
+
 Stage 4 – Long-Term Accessibility:
+
 Budget pricing after achieving sustained commercial success over an extended period.
+
 Stage 5 – Legacy Accessibility:
+
 Permanent low-cost pricing for historically successful games that continue generating revenue many years after release.
 
-Principle 3 – Transparent and Objective Criteria
+**Principle 3 – Transparent and Objective Criteria**
+
 The criteria determining when a game enters each accessibility stage shall be based on transparent and objective measures.
+
 Possible criteria may include:
+
 development and marketing costs;
+
 revenue generated;
+
 profitability achieved;
+
 years since release;
+
 continued commercial performance.
+
 The purpose of these criteria is to prevent arbitrary decisions while allowing flexibility across different types of games and business models.
 
-Principle 4 – Protection of Creative Investment
+**Principle 4 – Protection of Creative Investment**
+
 Fair Long-Term Accessibility measures shall not prevent publishers from earning revenue from successful games.
+
 The purpose of this framework is not to punish success, but to ensure that exceptional commercial success gradually results in broader consumer access.
+
 Publishers should continue benefiting from sales, expansions, downloadable content, future releases, and other legitimate revenue models.
 
-Principle 5 – Consumer Benefit from Digital Distribution
+**Principle 5 – Consumer Benefit from Digital Distribution**
+
 Digital distribution significantly reduces long-term manufacturing, storage, and physical distribution costs.
+
 As digital products remain available for extended periods, consumers should benefit from the increased efficiency and reduced costs associated with digital delivery.
+
 The absence of physical production costs should not result in permanently maintaining launch-level pricing for successful games.
 
-Illustrative Implementation Example (Non-Binding)
+**Illustrative Implementation Example (Non-Binding)**
+
 A possible implementation could establish that a game which has generated several times its original development cost gradually moves through accessibility stages, resulting in lower permanent pricing over time.
+
 For example, a game that originally launched at premium pricing could eventually transition into a lower-cost category, allowing new generations of players to access the game while continuing to generate revenue for its creators.
+
 This framework recognizes that successful games can remain valuable cultural and commercial products while becoming increasingly accessible to a wider audience.
 
-
-Appendix E – Digital Inheritance Framework
+### Appendix E – Digital Inheritance Framework
 This Appendix provides technical and implementation guidance supporting the principles established under Article VIII – Digital Inheritance.
+
 Its purpose is to establish a fair and secure framework for the transfer of legally acquired digital game libraries after the death of a consumer.
+
 Digital game libraries represent a form of consumer investment accumulated over time. Their transfer should be handled in a manner that respects both inheritance rights and personal privacy.
 
-Principle 1 – Designation of Digital Beneficiaries
+**Principle 1 – Designation of Digital Beneficiaries**
+
 Digital platforms should provide consumers with the ability to designate one or more beneficiaries for their eligible digital game libraries.
+
 This designation should be simple, transparent, and accessible through the platform account management system.
+
 Consumers should have the ability to update or remove designated beneficiaries at any time.
 
-Principle 2 – Transfer of Eligible Digital Libraries
+**Principle 2 – Transfer of Eligible Digital Libraries**
+
 Upon the death of a consumer, legally acquired digital game libraries, including games and associated content legally acquired by the consumer, should be transferable to designated beneficiaries or lawful heirs.
+
 The transfer shall apply only to eligible digital entitlements and shall not include personal account information or private user data.
 
-Principle 3 – Verification Process
+**Principle 3 – Verification Process**
+
 Digital platforms shall provide a secure process allowing beneficiaries or lawful heirs to request the transfer of an eligible digital library.
+
 Reasonable documentation may be required, including:
+
 proof of the consumer's death;
+
 proof of legal inheritance rights or beneficiary designation;
+
 verification of the requesting person's identity.
+
 The process should be designed to prevent fraudulent claims while remaining accessible to legitimate heirs.
 
-Principle 4 – Protection of Personal Data
+**Principle 4 – Protection of Personal Data**
+
 The transfer of a digital game library shall not automatically grant access to private account information, including:
+
 private messages;
+
 payment information;
+
 personal communications;
+
 unrelated account data.
+
 Platforms shall ensure that inheritance procedures comply with applicable privacy and data protection laws.
 
-Principle 5 – Platform Responsibilities
+**Principle 5 – Platform Responsibilities**
+
 Digital platforms shall provide a clear and accessible process for managing digital inheritance rights established under this Charter.
+
 Platforms shall clearly disclose:
+
 the procedure for designating beneficiaries;
+
 the documentation required for transfer;
+
 the process for requesting inheritance transfer;
+
 any limitations concerning specific digital content where legally justified.
+
 Such information shall be presented clearly before or during the purchase process.
 
+**Principle 6 – Preservation of Digital Collections**
 
-Principle 6 – Preservation of Digital Collections
 Digital inheritance should recognize that game libraries are not only financial assets but also personal collections representing years of consumer choice, cultural interests, and personal history.
+
 The purpose of this framework is to ensure that legally acquired digital collections are not permanently lost solely because the original owner has passed away.
 
-Illustrative Implementation Example (Non-Binding)
-A possible implementation could allow a consumer to designate a beneficiary within their platform account.
-After the consumer's death, the beneficiary could submit the required legal documentation, after which the platform would transfer legally acquired purchased games and associated content covered by this Charter into the beneficiary's digital library while permanently protecting the deceased consumer's private account information.
-This approach would preserve the value of digital collections while respecting privacy, security, and intellectual property rights.
+**Illustrative Implementation Example (Non-Binding)**
 
+A possible implementation could allow a consumer to designate a beneficiary within their platform account.
+
+After the consumer's death, the beneficiary could submit the required legal documentation, after which the platform would transfer legally acquired purchased games and associated content covered by this Charter into the beneficiary's digital library while permanently protecting the deceased consumer's private account information.
+
+This approach would preserve the value of digital collections while respecting privacy, security, and intellectual property rights.
 
 
 
