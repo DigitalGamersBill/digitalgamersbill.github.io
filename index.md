@@ -174,6 +174,8 @@ The transfer of a digital game library under this article shall relate solely to
 
 The purpose of this article is to recognize digital game libraries as valuable consumer assets, ensuring that legally acquired collections may be preserved and passed on to future generations in a manner that respects both consumer rights and personal privacy.
 
+[↑ Back to Contents](#contents)
+
 ---
 
 ## Appendices
