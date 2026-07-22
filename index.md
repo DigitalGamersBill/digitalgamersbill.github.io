@@ -1,5 +1,7 @@
 # Digital Gamers' Bill of Rights
 
+The idea behind this Charter was simple: if digital gaming is becoming the dominant way people buy and experience games, then consumers should have a clear and comprehensive set of rights that evolves alongside the industry.
+
 ## If you're short on time, please start with the [**Introduction**](#introduction) and the [**Contents**](#contents) - they provide a concise overview of this proposal. If you believe these ideas are worth pursuing, I encourage you to read the full Charter and consider sharing it with others.
 
 ## A message from the author
@@ -24,21 +26,27 @@ While I may not always be able to respond immediately, I will carefully read all
 
 Thank you for taking the time to read this proposal.
 
+## How this proposal differs from other initiatives
+
+This Charter was inspired by the growing discussion surrounding digital consumer rights in gaming, including initiatives such as Stop Killing Games and California's Protect Our Games Act.
+
+While those initiatives focus primarily on preserving access to games after official support ends, the Digital Gamers' Bill of Rights proposes a broader framework of consumer rights for the digital gaming era.
+
+In addition to end-of-life preservation, this Charter addresses permanent ownership, personal preservation, transparency of digital purchases, public preservation of abandoned games, long-term accessibility, digital inheritance, and other consumer rights that extend beyond server shutdowns.
+
+This proposal is not intended to replace or compete with existing initiatives. Rather, it is offered as a complementary framework that may help inform future public discussion, industry practices, and legislation.
 
 ## Introduction
 
-The goal of this Charter is to establish a set of essential consumer rights that protect players in the digital era.
+The goal of this Charter is to establish a set of essential consumer rights for players in the digital era.
 
-Our objective is not to oppose digital distribution or technological progress. On the contrary, we recognize the many advantages that digital gaming has brought to both consumers and the industry. Our goal is to ensure that consumer rights evolve alongside the industry, protecting players while encouraging innovation, preservation, and fair access to digital games.
+Digital distribution has transformed the video game industry, bringing enormous benefits to both consumers and developers. However, as physical media disappears, players become increasingly dependent on digital platforms to access, preserve, and enjoy the games they have legally purchased.
 
-Video games are among the world's most important forms of art, cultural expression, and entertainment. As physical media is gradually disappearing, consumers are increasingly dependent on digital platforms to purchase, access, and preserve the games they love.
+Without appropriate consumer protections, important parts of gaming history may disappear, and consumers risk losing rights that were traditionally associated with physical ownership.
 
-This transition brings undeniable benefits, yet it also concentrates unprecedented control in the hands of publishers and platform holders. Without appropriate consumer protections, players risk losing access to products they have legally purchased, while important pieces of gaming history may disappear forever.
-The Digital Gamers' Bill of Rights proposes a set of fundamental principles designed to protect consumers, preserve gaming history, and ensure that the future of digital gaming remains fair, transparent, and accessible for everyone.
+The Digital Gamers' Bill of Rights proposes a set of fundamental principles designed to ensure that consumer rights evolve alongside technology, balancing innovation, fair business practices, and the long-term preservation of video games as both commercial products and cultural heritage.
 
-We believe that the transition from physical to digital distribution must not result in fewer consumer rights. Digital innovation should expand opportunities for both creators and players, not reduce the protections that consumers have traditionally enjoyed.
-
-The following rights represent the fundamental principles that we believe every digital game consumer should be guaranteed, regardless of platform, publisher, or business model. They are intended to establish a fair balance between consumer protection, technological innovation, and the long-term preservation of video games as both commercial products and cultural heritage.
+The following eight articles outline the core rights that every digital game consumer should be guaranteed, regardless of platform, publisher, or business model.
 
 ## Contents
 
