@@ -68,15 +68,15 @@ Games that achieve extraordinary success should become increasingly accessible o
 ### [Article VIII. Digital Inheritance](#article-viii--digital-inheritance)
 Digital game collections should not disappear when their owners pass away.
 
-### [Appendix A – Fair Anti-Piracy Measures](#appendix-a--fair-anti-piracy-measures)
+### [Appendix A – Fair Anti-Piracy Measures](#appendix-a--fair-anti-piracy-measures-1)
 
-### [Appendix B – Online Functionality and MMO Preservation](#appendix-b--online-functionality-and-mmo-preservation)
+### [Appendix B – Online Functionality and MMO Preservation](#appendix-b--online-functionality-and-mmo-preservation-1)
 
-### [Appendix C – Public Game Preservation Framework](#appendix-c--public-game-preservation-framework)
+### [Appendix C – Public Game Preservation Framework](#appendix-c--public-game-preservation-framework-1)
 
-### [Appendix D – Fair Long-Term Accessibility Framework](#appendix-d--fair-long-term-accessibility-framework)
+### [Appendix D – Fair Long-Term Accessibility Framework](#appendix-d--fair-long-term-accessibility-framework-1)
 
-### [Appendix E – Digital Inheritance Framework](#appendix-e--digital-inheritance-framework)
+### [Appendix E – Digital Inheritance Framework](#appendix-e--digital-inheritance-framework-1)
 
 ---
 
