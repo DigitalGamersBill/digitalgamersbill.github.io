@@ -1,6 +1,6 @@
 # Digital Gamers' Bill of Rights
 
-## If you're short on time, please start with the [**Introduction**](#introduction) and the **Contents** - they provide a concise overview of this proposal. If you believe these ideas are worth pursuing, I encourage you to read the full Charter and consider sharing it with others.
+## If you're short on time, please start with the [**Introduction**](#introduction) and the [**Contents**](#contents) - they provide a concise overview of this proposal. If you believe these ideas are worth pursuing, I encourage you to read the full Charter and consider sharing it with others.
 
 ## A message from the author
 
@@ -42,37 +42,32 @@ The following rights represent the fundamental principles that we believe every 
 
 ## Contents
 
-### **Article 1. Permanent Access**
+## Table of Contents
 
+### [Article I. Permanent Access](#article-i--permanent-access-to-purchased-games)
 Players should never lose access to games they legally purchased.
 
-### **Article 2. Personal Preservation**
-
+### [Article II. Personal Preservation](#article-ii--right-to-personal-preservation)
 Players should have the right and tools to preserve their digital libraries.
 
-### **Article 3. End-of-Life Preservation**
-
+### [Article III. End-of-Life Preservation](#article-iii--end-of-life-software-preservation)
 Games should remain functional after official support ends.
 
-### **Article 4. Online Continuity**
-
+### [Article IV. Online Continuity](#article-iv--community-server-continuity)
 The shutdown of servers should not mean the permanent loss of online experiences.
 
-### **Article 5. Public Preservation**
-
+### [Article V. Public Preservation](#article-v--public-preservation-of-abandoned-games)
 Games abandoned by the market should not disappear from history.
 
-### **Article 6. Transparency**
-
+### [Article VI. Transparency](#article-vi--transparency-of-digital-purchases)
 Consumers deserve to know exactly what they are buying.
 
-### **Article 7. Fair Long-Term Accessibility**
-
+### [Article VII. Fair Long-Term Accessibility](#article-vii--fair-long-term-accessibility)
 Games that achieve extraordinary success should become increasingly accessible over time.
 
-### **Article 8. Digital Inheritance**
-
+### [Article VIII. Digital Inheritance](#article-viii--digital-inheritance)
 Digital game collections should not disappear when their owners pass away.
+
 
 ### **Appendix A –** Fair Anti-Piracy Measures
 
